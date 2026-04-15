@@ -1,0 +1,185 @@
+LOAN UNDERWRITING POLICY MANUAL
+Version 3.2 | Effective Date: January 2024
+Issued by: Credit Risk Department
+
+1. ELIGIBILITY CRITERIA
+
+1.1 Age Requirements
+Applicants must be between 21 and 65 years of age at the time of application.
+Applications from individuals below 21 or above 65 years will be auto-rejected.
+For loans with tenure exceeding 10 years, maximum age at loan maturity must not exceed 70 years.
+
+1.2 Citizenship and Residency
+Applicant must be an Indian citizen with valid PAN card.
+NRI applicants require separate documentation and are subject to different policy guidelines.
+Applicant must have resided in India for at least 2 years.
+
+1.3 Employment Eligibility
+Salaried employees: Minimum 1 year at current employer, minimum 2 years total work experience.
+Self-employed individuals: Minimum 2 years in current business with ITR proof.
+Government employees receive preferential treatment and relaxed FOIR norms.
+Contract workers require additional documentation and may be subject to higher interest rates.
+
+2. INCOME VERIFICATION
+
+2.1 Minimum Income Requirements
+Minimum monthly income for personal loans: Rs 15,000
+Minimum monthly income for home loans: Rs 25,000
+Minimum monthly income for business loans: Rs 30,000
+For co-applicant loans, combined income is considered with 80% of secondary income.
+
+2.2 Acceptable Income Proof
+Salaried: Last 3 months salary slips, Form 16, 6 months bank statement.
+Self-employed: Last 2 years ITR with computation, CA certified financials.
+Salary must be credited to bank account — cash salary is not acceptable.
+Salary slip must show employer name, employee name, PAN, gross, and net salary.
+
+2.3 Income Stability Assessment
+Irregular income patterns in the last 6 months may require additional justification.
+Variable pay components above 30% of CTC require conservative assessment.
+Bonus and incentives are excluded from primary income calculation.
+
+3. LOAN AMOUNT AND TENURE
+
+3.1 Maximum Loan Limits
+Personal loans: Maximum Rs 50,00,000 (50 lakhs)
+Home loans: Maximum Rs 5,00,00,000 (5 crores)
+Vehicle loans: Maximum Rs 75,00,000 (75 lakhs)
+Education loans: Maximum Rs 25,00,000 (25 lakhs) for domestic, Rs 75,00,000 for abroad.
+
+3.2 Loan-to-Income Ratio
+Loan amount must not exceed 60 times monthly income for personal loans.
+For home loans, EMI must not exceed 40% of net monthly income.
+Existing loan obligations are deducted before computing eligibility.
+
+3.3 Tenure Guidelines
+Personal loans: 1 to 7 years
+Home loans: 5 to 30 years (subject to age at maturity)
+Vehicle loans: 1 to 7 years
+Business loans: 1 to 10 years
+
+4. DEBT BURDEN ASSESSMENT
+
+4.1 Fixed Obligation to Income Ratio (FOIR)
+Maximum FOIR including new loan EMI must not exceed 50% of gross monthly income.
+For applicants with income above Rs 1 lakh/month, FOIR limit is relaxed to 55%.
+Government employees are allowed up to 60% FOIR.
+FOIR calculation must include all EMIs, rent obligations, and credit card minimum dues.
+
+4.2 Existing Loan Assessment
+Maximum 3 active loans permissible for new loan sanction.
+Applicants with more than 3 active loans require senior underwriter approval.
+Home loans are excluded from the active loan count for FOIR purposes.
+
+4.3 Debt-to-Income Ratio
+Total outstanding debt (all loans combined) should not exceed 12 times annual income.
+High debt levels require detailed financial assessment and may trigger manual review.
+
+5. CREDIT HISTORY AND BUREAU ASSESSMENT
+
+5.1 Minimum Credit Score Requirements
+Standard loans: Minimum CIBIL score of 650
+Premium/unsecured loans: Minimum CIBIL score of 700
+Home loans: Minimum CIBIL score of 650
+Applicants without credit history (NTC — New To Credit): Treated as 650 score with additional documentation.
+
+5.2 Credit Report Analysis
+Any default in the last 24 months is grounds for automatic rejection.
+Settlements within 36 months require detailed explanation and senior approval.
+Credit inquiries above 6 in last 6 months indicate credit-seeking behavior and trigger review.
+DPD (Days Past Due) above 90 in last 12 months leads to rejection.
+
+5.3 Bureau Exceptions
+Applicants with CIBIL scores between 600-649 may be considered for secured loans only.
+Government employees with scores 600-649 may be considered with salary account relationship.
+
+6. RISK CLASSIFICATION AND PRICING
+
+6.1 Risk Bands
+Low Risk (credit score 750+, FOIR < 35%, stable employment): Standard interest rate, fast-track processing.
+Medium Risk (credit score 650-749, FOIR 35-45%): Standard processing with full documentation.
+High Risk (credit score 600-649, FOIR 45-50%): Senior underwriter review mandatory, higher rate.
+Very High Risk (credit score below 600, FOIR > 50%): Reject or secured loan only.
+
+6.2 High-Risk Applicant Policy
+High-risk applicants are restricted to loan amounts below Rs 10,00,000 (10 lakhs).
+High-risk applicants require 2 guarantors or collateral equal to loan amount.
+Interest rate premium of 2-4% is applied to high-risk profiles.
+
+6.3 Fraud Indicators
+Any discrepancy between OCR-extracted document data and form data triggers fraud review.
+Income on salary slip greater than 30% above stated income triggers verification.
+PAN card on blacklist or under fraud watch results in immediate rejection.
+Multiple applications within 30 days from same PAN triggers review.
+
+7. DOCUMENT REQUIREMENTS
+
+7.1 Mandatory Documents for All Loans
+Original PAN card (front and back photograph)
+Aadhaar card for address verification
+Last 3 months salary slips or 2 years ITR
+6 months bank statement from primary salary account
+Passport size photograph
+Loan application form with self-declaration
+
+7.2 Document Verification Standards
+All documents must be legible — blurred or low-quality images may be rejected.
+PAN number extracted via OCR must match stated PAN on application form.
+Salary amount on slip must be within 20% of stated monthly income.
+Employer name on salary slip must match employer details on application.
+
+7.3 Additional Documents for High-Value Loans
+Loans above Rs 25 lakhs: Form 26AS, property documents if applicable.
+Loans above Rs 50 lakhs: CA-certified net worth statement.
+Self-employed loans above Rs 10 lakhs: GST registration and 2 years financial statements.
+
+8. SPECIAL CATEGORIES
+
+8.1 Self-Employed Assessment
+Business vintage of minimum 2 years required.
+Business profitability demonstrated through ITR for 2 consecutive years.
+Business bank account statements for 12 months required.
+Self-employed professionals (doctors, CAs, architects) have relaxed documentation norms.
+
+8.2 Women Applicants
+Women applicants with independent income receive 0.25% interest rate concession.
+Priority processing for women-owned business loan applications.
+
+8.3 Senior Citizens
+Applicants above 60 years: maximum tenure restricted to 10 years.
+Pension income acceptable as primary income for senior citizens.
+Family member as co-applicant recommended for applicants above 60.
+
+9. DECISION AUTHORITY
+
+9.1 Auto-Approval Criteria
+Applications meeting ALL criteria (credit score 700+, FOIR <40%, no rule failures, verified documents) may be auto-approved up to Rs 5 lakhs.
+
+9.2 Manual Review Triggers
+Credit score between 650-699 with loan amount above Rs 10 lakhs.
+Any document discrepancy flagged by OCR verification.
+FOIR between 45-50%.
+Self-employed applicants with business vintage under 3 years.
+Applications from applicants with 2+ existing loans.
+
+9.3 Senior Underwriter Approval Required
+Any exception to standard eligibility criteria.
+Loan amounts above Rs 50 lakhs.
+High-risk applicants with compensating factors.
+All applications where AI recommendation conflicts with bureau data.
+
+10. REJECTION AND COMMUNICATION
+
+10.1 Grounds for Automatic Rejection
+PAN on blacklist or under fraud watch.
+Age outside 21-65 band.
+Credit score below 600.
+FOIR above 60% even after co-applicant addition.
+Active default on any existing loan.
+Fraudulent or tampered document detection.
+
+10.2 Communication of Decision
+Approved: Sanction letter issued within 2 business days.
+Rejected: Rejection letter with specific reason codes issued within 3 business days.
+Manual Review: Acknowledgment within 1 business day, decision within 7 business days.
+Applicants have right to appeal rejection within 30 days with additional documentation.
