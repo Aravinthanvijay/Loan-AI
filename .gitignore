@@ -1,8 +1,5 @@
 # Environment variables
-.env
-.env.local
 .env.*.local
-.env.production
 
 # Python
 __pycache__/
@@ -33,7 +30,6 @@ env/
 .venv
 
 # IDE & Editor
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -81,3 +77,4 @@ data/embeddings/*.pkl
 # OS
 .DS_Store
 Thumbs.db
+config.bat
