@@ -120,9 +120,9 @@ The system uses a 6-agent LangGraph workflow:
 1. **Agent 1 - Intake Validation**: Validates application completeness, checks against blacklist/duplicates
 2. **Agent 2 - Document Processing**: OCR extraction from PAN and salary slips
 3. **Agent 3 - Credit Scoring**: XGBoost model with SHAP explainability
-4. **Agent 4 - Rules Engine**: Hard business rules (age, income, FOIR ratios)
+4. **Agent 4 - Rules Engine**: Hard business rules (age, income)
 5. **Agent 5 - Policy Compliance**: RAG-based policy verification
-6. **Agent 6 - Final Decision**: LLM-based decision synthesis using Groq Mixtral
+6. **Agent 6 - Final Decision**: LLM-based decision synthesis using openai/gpt-oss-120b
 
 ## Key Technologies
 
